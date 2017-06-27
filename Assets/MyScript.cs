@@ -8,6 +8,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
 		print ("You found me fool!");
 		print ("Something here changed");
+		Debug.Log ("Added on the Macbook");
 	}
 	
 	// Update is called once per frame
